@@ -33,9 +33,9 @@ height = 400;
 sketch.createCanvas(width, height);
 
 //choix de couleur de la boule
-colorB = sketch.random(50,200);
-colorG = sketch.random(50,200);
-colorR = sketch.random(50,200);
+colorB = sketch.random(50,255);
+colorG = sketch.random(50,255);
+colorR = sketch.random(50,255);
 
 //score
 scoreBleu = scoreRouge = 0
